@@ -46,7 +46,7 @@ I aim to build **practical, real-world solutions** and secure a stable **9–5 d
 
 ### 🔬 **1. Healthcare: Diabetes Prediction (ML Classification)**  
 End-to-end ML pipeline using scikit-learn including EDA, feature selection, model comparison, and evaluation.  
-📁 *Repo coming soon*
+📁 [GitHub Repository](https://github.com/Aswinab97/Healthcare-diabetes-classification)
 
 ### 📊 **2. Toronto/Ontario Healthcare Data Analysis (EDA + Dashboard)**  
 Exploring public government healthcare datasets with visual insights.  
