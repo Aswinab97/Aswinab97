@@ -110,8 +110,7 @@ Complex SQL queries using realistic healthcare/government data.
 ---
 ## 📊 GitHub Stats
 
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aswinab97&show_icons=true&theme=default)
-
+![Aswin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aswinab97&show_icons=true&theme=tokyonight)
 
 ---
 ## ⚡ Fun Fact  
