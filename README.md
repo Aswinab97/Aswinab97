@@ -50,7 +50,7 @@ End-to-end ML pipeline using scikit-learn including EDA, feature selection, mode
 
 ### 📊 **2. Toronto/Ontario Healthcare Data Analysis (EDA + Dashboard)**  
 Exploring public government healthcare datasets with visual insights.  
-📁 *Repo coming soon*
+📁 [GitHub Repository](https://github.com/Aswinab97/toronto_er_analysis)
 
 ### 🤖 **3. AI-Enhanced Assistive Tool for Disability Support**  
 Applying machine learning and simple rule-based AI to create accessible support systems.  
