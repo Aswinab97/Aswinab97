@@ -108,16 +108,5 @@ Complex SQL queries using realistic healthcare/government data.
 - Communication for technical interviews  
 
 ---
-## 📊 GitHub Stats
-
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aswinab97&count_private=true&show_icons=true&rank_icon=github)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinab97&layout=compact)
-
-
-
----
 ## ⚡ Fun Fact  
 I believe the most powerful AI model is teamwork — and good chai during coding sessions.  
