@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aswin  
+
 ### 🎓 Applied AI Student @ George Brown College  
 ### 💼 Aspiring Data Analyst | Healthcare Focus  
 ### 🧠 AI • Machine Learning • Data Analytics • Python • SQL
