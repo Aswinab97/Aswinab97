@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Aswin Anil Bindu - Banner" />
-</p>
-
 ### 🎓 Applied AI Student @ George Brown College  
 ### 💼 Aspiring Data Analyst | Healthcare Focus  
 ### 🧠 AI • Machine Learning • Data Analytics • Python • SQL
