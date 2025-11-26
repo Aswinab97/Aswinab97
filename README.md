@@ -87,8 +87,11 @@ Complex SQL queries using realistic healthcare/government data.
 
 ## 📬 Connect With Me  
 📍 Toronto, Canada  
-🔗 LinkedIn: [linkedin.com/in/aswin-a-b-](https://www.linkedin.com/in/aswin-a-b-/)
-📊 Tableau: [Aswin A.B — Tableau Profile](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswin%20A.B-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-a-b-/)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-Aswin%20A.B-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+
 
 ---
 
