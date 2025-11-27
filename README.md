@@ -87,6 +87,7 @@ Complex SQL queries using realistic healthcare/government data.
 
 ### 📬 Connect With Me
 📍 Toronto, Canada  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinab/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public%20-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
 
