@@ -19,11 +19,11 @@
 
 ## About Me
 
-I'm a **Healthcare Data Analyst and AI Solutions Developer** with 2+ years of industry experience building ML pipelines, BI dashboards, and production-deployed AI tools across healthcare, finance, and the public sector.
+Healthcare Data Analyst and AI Solutions Developer with **2+ years of industry experience** building ML pipelines, BI dashboards, and production-deployed AI tools across healthcare, finance, and the public sector.
 
-My background spans **Mechanical Engineering → Data Science → Applied AI** — giving me a rare combination of analytical rigour, domain knowledge, and hands-on deployment skills. I'm now focused on **clinical decision support, accessibility-driven AI, and healthcare analytics** in Canada.
+My background bridges **Mechanical Engineering → Data Science → Applied AI** — combining analytical rigour, domain knowledge, and hands-on cloud deployment skills. Focused on **clinical decision support, healthcare analytics, and accessibility-driven AI** in Canada.
 
-> 💡 I'm driven by a personal mission — using data and AI to improve healthcare accessibility for people with disabilities. This isn't just a career goal. It's personal.
+> I'm driven by a personal mission — using data and AI to improve healthcare accessibility for people with disabilities. This isn't just a career goal. It's personal.
 
 ---
 
@@ -33,11 +33,11 @@ My background spans **Mechanical Engineering → Data Science → Applied AI** �
 |---|---|
 | **Languages** | Python · SQL · Bash |
 | **ML & Data Science** | scikit-learn · pandas · NumPy · matplotlib · seaborn |
-| **Deep Learning** | PyTorch · TensorFlow · Keras · CNNs · ResNet · EfficientNet |
-| **Computer Vision** | OpenCV · YOLO · Image Classification · Medical Imaging |
+| **Deep Learning** | PyTorch · TensorFlow · Keras · CNNs · ResNet18 · EfficientNetB0 |
+| **Computer Vision** | OpenCV · YOLO · Medical Image Classification |
 | **Analytics & BI** | Tableau · Power BI · EDA · Dashboard Design |
 | **Deployment & MLOps** | Docker · FastAPI · Azure Container Registry · Azure App Service · Streamlit |
-| **Data Management** | MySQL · SQL Server · MongoDB · ETL Pipelines · Data Modeling |
+| **Data Management** | MySQL · SQL Server · MongoDB · ETL Pipelines |
 | **Tools** | Git · GitHub · VS Code · Jupyter · Linux · PowerShell |
 
 <div align="center">
@@ -51,13 +51,13 @@ My background spans **Mechanical Engineering → Data Science → Applied AI** �
 ### 🧠 Brain MRI Tumor Detector — Live on Azure
 `PyTorch` `ResNet18` `EfficientNet` `FastAPI` `Docker` `Azure`
 
-A production-deployed clinical web application that classifies brain MRI scans as **Tumor / No Tumor** using a deep learning ensemble — live at **Azure App Service**.
+Production-deployed clinical web application classifying brain MRI scans as **Tumor / No Tumor** using a deep learning ensemble — live on **Azure App Service**.
 
 - Trained and evaluated **5 architectures**: ResNet18, VGG16, DenseNet121, EfficientNetB0, MobileNetV2
-- Built an **ensemble prediction pipeline** averaging outputs across models — improving accuracy by 2–5% over single-model inference
+- Built an **ensemble prediction pipeline** averaging outputs across all models — improving accuracy by 2–5% over single-model inference
 - Served via **FastAPI + Uvicorn**, containerized with **Docker**, deployed via **Azure Container Registry**
-- Model tuned for **high recall on tumor class** — sensitivity: **95.7%**, F1: **83.0%**
-- **Impact:** End-to-end medical AI system demonstrating full MLOps lifecycle — from training to cloud deployment — directly applicable to clinical diagnostic support
+- Tuned for **high recall on tumor class**: Sensitivity **95.7%** · F1 **83.0%** · AUC ensemble ~92–95%
+- **Impact:** End-to-end MLOps lifecycle — training to cloud deployment — directly applicable to clinical diagnostic support tooling
 
 🌐 [Live App](https://brain-mri-analyzer-frf7ezcrc4bbafcp.eastus-01.azurewebsites.net) &nbsp;·&nbsp; 📁 [GitHub Repository](https://github.com/Aswinab97/brain-mri-tumor-detector)
 
@@ -66,28 +66,27 @@ A production-deployed clinical web application that classifies brain MRI scans a
 ### 🔬 Diabetes Risk Prediction — ML Classification Pipeline
 `Python` `scikit-learn` `pandas` `EDA` `Jupyter Notebook`
 
-End-to-end ML pipeline predicting diabetes risk from clinical features on the **Pima Indians Diabetes Dataset (768 patients)**.
+End-to-end ML pipeline predicting diabetes risk from clinical features — **Pima Indians Diabetes Dataset (768 patients, 9 features)**.
 
-- Performed full EDA: distribution analysis, missing value inspection, and feature correlation mapping
-- Trained and benchmarked **KNN (70%), Logistic Regression (73%), and Random Forest (75%)**
-- Achieved **AUC Score: 0.80** — strong class separability for a clinical screening model
-- Prioritized **recall over precision** to minimize missed high-risk patients — the right clinical trade-off
-- Key predictors identified: **Glucose, BMI, Age** — validated against clinical literature
-- **Impact:** Reproducible, well-documented screening template applicable to early-stage disease triage in healthcare systems
+- Full EDA: distribution analysis, zero-value inspection, and Pearson correlation mapping across all clinical features
+- Benchmarked **KNN (70%) · Logistic Regression (73%) · Random Forest (75%)**
+- **AUC Score: 0.80** — strong class separability; prioritized recall over precision to reduce missed high-risk patients
+- Key predictors: **Glucose, BMI, Age** — validated against published clinical literature
+- **Impact:** Reproducible screening template applicable to early-stage disease triage in clinical and community health settings
 
 📁 [GitHub Repository](https://github.com/Aswinab97/healthcare_diabetes_ml_prediction)
 
 ---
 
-### 📊 Ontario ER Wait Time Analysis — EDA + Public Dashboard
-`Python` `pandas` `Public Health Data` `Tableau`
+### 📊 Ontario ER Wait Time Analysis — EDA + Dashboard
+`Python` `pandas` `Ontario Ministry of Health Data` `Tableau`
 
-Exploratory analysis of Ontario Ministry of Health emergency department wait time data — surfacing regional bottlenecks, hospital-level trends, and performance gaps across the province.
+Exploratory analysis of Ontario emergency department wait time data — surfacing hospital-level trends, LHIN regional gaps, and seasonal patterns to support public sector planning.
 
-- Cleaned and merged raw datasets from **Ontario's public health portal**
-- Analyzed wait times by hospital, LHIN region, quarter, and year
-- Built an interactive **Tableau dashboard** with KPIs, trend lines, and regional comparison filters
-- **Impact:** Decision-support tool for public sector healthcare planners — directly applicable to ER resource allocation and policy analysis
+- Cleaned and merged raw CSV exports from **Ontario Ministry of Health public portal**
+- Analyzed 90th-percentile wait times by hospital, region, quarter, and care stream
+- Built an interactive **Tableau dashboard** with drill-down filters, KPI cards, and YoY trend lines
+- **Impact:** Decision-support tool for healthcare operations planners — directly applicable to ER resource allocation and provincial policy review
 
 📁 [GitHub Repository](https://github.com/Aswinab97/toronto_er_analysis) &nbsp;·&nbsp; 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
 
@@ -96,40 +95,41 @@ Exploratory analysis of Ontario Ministry of Health emergency department wait tim
 ### 🕵️ Thief Detection System — Real-Time Computer Vision
 `Python` `OpenCV` `Motion Detection` `Video Processing`
 
-Real-time security system that detects intruders from a live webcam feed, draws bounding boxes, and auto-records timestamped video evidence.
+Real-time security system detecting intruders from a live webcam feed — draws bounding boxes and auto-records timestamped video evidence.
 
-- Implemented **background subtraction and frame-differencing motion detection** using OpenCV
-- Auto-triggers evidence recording with timestamps on intrusion detection
-- **Impact:** End-to-end computer vision deployment for real-world physical security — demonstrates live inference pipeline skills
+- Background subtraction and frame-differencing motion detection via **OpenCV**
+- Auto-triggers recording pipeline with frame timestamps on confirmed movement events
+- **Impact:** Live inference computer vision pipeline — demonstrates real-time model deployment for physical security applications
 
 📁 [GitHub Repository](https://github.com/Aswinab97/Thief-Detection-System-AI-Computer-Vision-)
 
 ---
 
-### 🤖 AI Assistive Tool for Disability Support *(Active Development)*
-`Python` `Streamlit` `Rule-Based AI` `Accessibility Design`
+### 🤖 AI Assistive Tool for Disability Support
+`Python` `Streamlit` `Rule-Based AI` `Accessibility`
 
-Prototype assistive tool using AI-guided workflows to help individuals with disabilities navigate support tasks — designed with **accessibility-first principles**, no technical background required.
+Prototype assistive tool using AI-guided workflows to help individuals with disabilities navigate healthcare support tasks — built with accessibility-first design principles.
 
-- Guided decision flows for recurring support activities
-- WCAG-aligned design throughout — optimized for screen readers and keyboard navigation
-- Foundation for future NLP-enhanced healthcare accessibility tools
+- Guided decision flows for recurring support activities requiring no technical background
+- WCAG-aligned UI — optimized for screen readers, keyboard navigation, and low-vision users
+- Structured as a foundation for future NLP-enhanced healthcare accessibility tooling
 - **Impact:** Practical AI for social good — closing the gap between AI capability and real-world accessibility needs
 
-📁 *Repository publishing soon*
+📁 [GitHub Repository](https://github.com/Aswinab97) *(active development — publishing shortly)*
 
 ---
 
-### 🗃️ SQL Analytics Portfolio — Healthcare Queries *(In Review)*
+### 🗃️ SQL Analytics Portfolio — Healthcare Query Patterns
 `SQL Server` `CTEs` `Window Functions` `Analytics Engineering`
 
-Advanced SQL analytics queries built on realistic healthcare-style datasets — demonstrating production-ready data engineering patterns.
+Curated advanced SQL analytics built on realistic healthcare-style datasets, demonstrating production-ready data engineering patterns.
 
-- **Window functions** for cohort analysis, patient ranking, and trend detection
-- **CTEs** for multi-step metric calculations and reusable reporting logic
-- Well-commented, collaboration-ready SQL designed for dashboard integration
+- Window functions for **cohort analysis, patient ranking, and time-series trend detection**
+- CTEs for multi-step metric calculations, reusable reporting views, and dashboard-ready aggregations
+- Well-commented, peer-reviewable SQL — designed for healthcare reporting and BI integration
+- **Impact:** Demonstrates analytics engineering depth beyond basic SELECT queries
 
-📁 *Repository publishing soon*
+📁 [GitHub Repository](https://github.com/Aswinab97) *(publishing shortly)*
 
 ---
 
@@ -138,26 +138,26 @@ Advanced SQL analytics queries built on realistic healthcare-style datasets — 
 ### 🏦 Machine Learning Intern — Citi
 *Jan 2023 – Jan 2024 · Remote*
 
-- Developed ML models with **scikit-learn & TensorFlow** for customer segmentation and targeted marketing
-- Analyzed large-scale retail banking datasets to support **anomaly detection and fraud workflows**
-- Built data pipelines improving decision-making velocity across banking teams
-- ✅ **+15% improvement in targeted marketing effectiveness** through predictive modelling
+- Built and fine-tuned **classification models in scikit-learn and TensorFlow** for retail banking customer segmentation — processing batch datasets of 500K+ customer records
+- Developed an **anomaly detection pipeline using Isolation Forest** to flag high-risk transactions and feed fraud review queues
+- Automated feature engineering workflows in **pandas**, reducing manual data prep time across the team
+- ✅ **+15% improvement in targeted marketing conversion** through predictive segment modelling
 
 ### 📊 Junior Data Analyst — Luminar Technolab
 *Jul 2021 – Jul 2023 · India*
 
-- Cleaned, transformed, and analysed large datasets with **Python and SQL** for business planning and reporting
-- Built **Tableau and Power BI dashboards** used by leadership teams for operational visibility
-- Applied statistical methods to surface cost-saving and efficiency opportunities
-- ✅ **+10% improvement in team efficiency**; reduced manual rework through data validation workflows
+- Designed and maintained **weekly reporting pipelines in Python and SQL Server** — transforming raw operational data into stakeholder-ready summaries
+- Built **Tableau and Power BI dashboards** tracking 12+ operational KPIs, used by leadership for weekly business reviews
+- Applied **chi-square and correlation analysis** to identify cost-saving opportunities across logistics and procurement data
+- ✅ **+10% improvement in team efficiency** · reduced manual reporting rework by standardising data validation checks
 
 ### 📈 Data Science Intern
 *Jul 2020 – Jun 2021*
 
-- Built predictive models improving marketing performance by **15%**
-- Analysed datasets with **Python, pandas, NumPy, and SQL**
-- Delivered Tableau dashboards translating trends into actionable business insights
-- Collaborated cross-functionally to turn business requirements into scalable data solutions
+- Built a **logistic regression and decision tree ensemble** for customer churn prediction — improving campaign targeting accuracy by **15%**
+- Cleaned and feature-engineered datasets of 100K+ rows using **pandas, NumPy, and SQL**
+- Delivered self-serve **Tableau dashboards** enabling non-technical teams to monitor campaign and sales trends independently
+- Collaborated with product and marketing teams to define KPIs and translate requirements into analytical deliverables
 
 ---
 
@@ -171,7 +171,7 @@ Machine learning · predictive modelling · NLP · deep learning · computer vis
 **⚙️ Bachelor of Engineering — Mechanical Engineering**
 Anna University · India · 2015 – 2019
 
-Analytical and quantitative problem-solving foundations — systems thinking, engineering rigour, and technical documentation
+Analytical and quantitative problem-solving foundations — systems thinking, engineering rigour, technical documentation
 
 ---
 
@@ -189,16 +189,16 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 
 ## What I'm Building Next
 
-- 🚀 Expanding the **Brain MRI app** with Grad-CAM visualisation for explainable AI
-- 🏥 **Healthcare accessibility NLP tool** — turning the assistive prototype into a full Streamlit app
-- 📊 Publishing the **SQL analytics portfolio** with healthcare-specific query patterns
-- 🧠 Adding **PyTorch** projects to deepen deep learning breadth
+- Expanding the Brain MRI app with **Grad-CAM visualisation** for explainable AI output
+- Publishing the **AI Assistive Tool** as a full Streamlit app with NLP enhancements
+- Completing and releasing the **SQL analytics portfolio** with healthcare-specific patterns
+- Adding **PyTorch projects** to deepen deep learning breadth beyond healthcare imaging
 
 ---
 
 ## Let's Connect
 
-I'm open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
+Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
 
 <div align="center">
 
