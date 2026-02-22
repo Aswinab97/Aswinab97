@@ -270,10 +270,8 @@ Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aswinab/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:aswinanilbindu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=flat-square)](https://aswinanilbindu.netlify.app)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+[![CONNECT ON LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aswinab/)
+[![SEND AN EMAIL](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:aswinanilbindu@gmail.com)
 
 </div>
 
