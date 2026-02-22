@@ -262,9 +262,9 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 - Adding **PyTorch projects** to deepen deep learning breadth beyond healthcare imaging
 
 ---
-
+<div align="center">
 ## 📬 Let's Connect
-
+</div>
 Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
 
 <div align="center">
