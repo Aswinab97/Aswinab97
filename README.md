@@ -268,12 +268,17 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 
 </div>
 
-Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
 
 <div align="center">
 
 [![CONNECT ON LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswinab/)
 [![SEND AN EMAIL](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aswinanilbindu@gmail.com)
+
+<div align="center">
+  
+Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
+
+</div>
 
 </div>
 
