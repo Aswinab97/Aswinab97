@@ -9,7 +9,7 @@
 📍 Toronto, Canada &nbsp;·&nbsp; 🎓 Applied AI @ George Brown College &nbsp;·&nbsp; ✉️ aswinanilbindu@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswinab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=for-the-badge)](https://aswinanilbindu.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=for-the-badge)](https://aswinab97.github.io/aswin-portfolio/)
 ![Visitors](https://komarev.com/ghpvc/?username=Aswinab97&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
