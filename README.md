@@ -8,9 +8,11 @@
 
 📍 Toronto, Canada &nbsp;·&nbsp; 🎓 Applied AI @ George Brown College &nbsp;·&nbsp; ✉️ aswinanilbindu@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aswinab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=flat-square)](https://aswinanilbindu.netlify.app)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswinab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=for-the-badge)](https://aswinanilbindu.netlify.app)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aswinanilbindu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Aswinab97)
 ![Visitors](https://komarev.com/ghpvc/?username=Aswinab97&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
@@ -270,8 +272,10 @@ Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data
 
 <div align="center">
 
-[![CONNECT ON LINKEDIN](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aswinab/)
-[![SEND AN EMAIL](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:aswinanilbindu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswinab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white&style=for-the-badge)](https://aswinanilbindu.netlify.app)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aswinanilbindu@gmail.com)
 
 </div>
 
