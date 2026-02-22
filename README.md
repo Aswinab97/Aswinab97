@@ -58,16 +58,13 @@ My background bridges **Mechanical Engineering → Data Science → Applied AI**
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/ResNet-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/EfficientNet-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>Computer Vision</strong></td>
     <td>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=github&logoColor=black&style=flat-square" />
-      <img src="https://img.shields.io/badge/Medical%20Imaging-E84393?logo=pytorch&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/YOLO-222222?logo=github&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -75,7 +72,6 @@ My background bridges **Mechanical Engineering → Data Science → Applied AI**
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" />
-      <img src="https://img.shields.io/badge/EDA-150458?logo=pandas&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -93,7 +89,6 @@ My background bridges **Mechanical Engineering → Data Science → Applied AI**
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-      <img src="https://img.shields.io/badge/ETL-003B57?logo=postgresql&logoColor=white&style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -108,7 +103,10 @@ My background bridges **Mechanical Engineering → Data Science → Applied AI**
     </td>
   </tr>
 </table>
-## Featured Projects
+
+---
+
+## 🏆 Featured Projects
 
 ### 🧠 Brain MRI Tumor Detector — Live on Azure
 `PyTorch` `ResNet18` `EfficientNet` `FastAPI` `Docker` `Azure`
@@ -167,7 +165,7 @@ Real-time security system detecting intruders from a live webcam feed — draws 
 
 ---
 
-### 🤖 AI Assistive Tool for Disability Support
+### 🤖 AI Assistive Tool for Disability Support *(Active Development)*
 `Python` `Streamlit` `Rule-Based AI` `Accessibility`
 
 Prototype assistive tool using AI-guided workflows to help individuals with disabilities navigate healthcare support tasks — built with accessibility-first design principles.
@@ -177,11 +175,9 @@ Prototype assistive tool using AI-guided workflows to help individuals with disa
 - Structured as a foundation for future NLP-enhanced healthcare accessibility tooling
 - **Impact:** Practical AI for social good — closing the gap between AI capability and real-world accessibility needs
 
-📁 [GitHub Repository](https://github.com/Aswinab97) *(active development — publishing shortly)*
-
 ---
 
-### 🗃️ SQL Analytics Portfolio — Healthcare Query Patterns
+### 🗃️ SQL Analytics Portfolio — Healthcare Query Patterns *(Active Development)*
 `SQL Server` `CTEs` `Window Functions` `Analytics Engineering`
 
 Curated advanced SQL analytics built on realistic healthcare-style datasets, demonstrating production-ready data engineering patterns.
@@ -190,8 +186,6 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - CTEs for multi-step metric calculations, reusable reporting views, and dashboard-ready aggregations
 - Well-commented, peer-reviewable SQL — designed for healthcare reporting and BI integration
 - **Impact:** Demonstrates analytics engineering depth beyond basic SELECT queries
-
-📁 [GitHub Repository](https://github.com/Aswinab97) *(publishing shortly)*
 
 ---
 
@@ -213,7 +207,7 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - Applied **chi-square and correlation analysis** to identify cost-saving opportunities across logistics and procurement data
 - ✅ **+10% improvement in team efficiency** · reduced manual reporting rework by standardising data validation checks
 
-### 📈 Data Science Intern
+### 📈 Data Science Intern — Freelance / Contract
 *Jul 2020 – Jun 2021*
 
 - Built a **logistic regression and decision tree ensemble** for customer churn prediction — improving campaign targeting accuracy by **15%**
@@ -244,25 +238,24 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=github_dark" height="170" />
 </td>
 
 <td>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=dark&hide_border=true" height="170" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=github-dark-blue&hide_border=true" height="170" />
 </td>
 
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=github_dark" height="170" />
 </td>
 </tr>
 </table>
 
 </div>
 
-
 ---
 
-## What I'm Building Next
+## 🔭 What I'm Building Next
 
 - Expanding the Brain MRI app with **Grad-CAM visualisation** for explainable AI output
 - Publishing the **AI Assistive Tool** as a full Streamlit app with NLP enhancements
@@ -271,7 +264,7 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 
 ---
 
-## Let's Connect
+## 📬 Let's Connect
 
 Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
 
