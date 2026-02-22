@@ -279,13 +279,14 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
   <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
 Open to <strong>Healthcare Analytics, AI Solutions Development, and Public Sector Data roles</strong> in Toronto and remote.
 
 </div>
+
 ---
 
 <div align="center">
+  
   <i>"The most powerful diagnostic tool is clean data — and good chai during long coding sessions. ☕"</i>
+  
 </div>
