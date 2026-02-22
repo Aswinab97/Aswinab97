@@ -27,25 +27,87 @@ My background bridges **Mechanical Engineering → Data Science → Applied AI**
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Toolbox
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python · SQL · Bash |
-| **ML & Data Science** | scikit-learn · pandas · NumPy · matplotlib · seaborn |
-| **Deep Learning** | PyTorch · TensorFlow · Keras · CNNs · ResNet18 · EfficientNetB0 |
-| **Computer Vision** | OpenCV · YOLO · Medical Image Classification |
-| **Analytics & BI** | Tableau · Power BI · EDA · Dashboard Design |
-| **Deployment & MLOps** | Docker · FastAPI · Azure Container Registry · Azure App Service · Streamlit |
-| **Data Management** | MySQL · SQL Server · MongoDB · ETL Pipelines |
-| **Tools** | Git · GitHub · VS Code · Jupyter · Linux · PowerShell |
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,azure,fastapi,git,mysql,mongodb,vscode,linux,jupyter" />
-</div>
-
----
-
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML & Data Science</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/seaborn-4C72B0?logo=python&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Deep Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/ResNet-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/EfficientNet-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=github&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/Medical%20Imaging-E84393?logo=pytorch&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Analytics & BI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/EDA-150458?logo=pandas&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Deployment & MLOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Management</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/ETL-003B57?logo=postgresql&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Ops</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=flat-square" />
+    </td>
+  </tr>
+</table>
 ## Featured Projects
 
 ### 🧠 Brain MRI Tumor Detector — Live on Azure
