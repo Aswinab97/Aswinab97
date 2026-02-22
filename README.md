@@ -263,8 +263,11 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 
 ---
 <div align="center">
+  
 ## 📬 Let's Connect
+
 </div>
+
 Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
 
 <div align="center">
