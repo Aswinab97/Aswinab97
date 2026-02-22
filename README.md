@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aswin+Anil+Bindu+%F0%9F%91%8B;Healthcare+Data+Analyst;AI+Solutions+Developer;Applied+ML+Engineer" alt="Typing SVG" />
+# Aswin Anil Bindu
 
-**Building data-driven tools that make healthcare smarter and more accessible.**
+### Healthcare Data Analyst · AI Solutions Developer · Applied ML Engineer
+
+**Building production-ready AI tools that make healthcare smarter and more accessible.**
 
 📍 Toronto, Canada &nbsp;·&nbsp; 🎓 Applied AI @ George Brown College &nbsp;·&nbsp; ✉️ aswinanilbindu@gmail.com
 
@@ -207,8 +209,8 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - Applied **chi-square and correlation analysis** to identify cost-saving opportunities across logistics and procurement data
 - ✅ **+10% improvement in team efficiency** · reduced manual reporting rework by standardising data validation checks
 
-### 📈 Data Science Intern — Luminar Technolab
-*Jul 2020 – Jun 2021 · India*
+### 📈 Data Science Intern — Freelance / Contract
+*Jul 2020 – Jun 2021*
 
 - Built a **logistic regression and decision tree ensemble** for customer churn prediction — improving campaign targeting accuracy by **15%**
 - Cleaned and feature-engineered datasets of 100K+ rows using **pandas, NumPy, and SQL**
