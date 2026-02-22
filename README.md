@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi, I'm Aswin Anil Bindu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Aswin%20Anil%20Bindu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Healthcare%20Data%20Analyst%20%C2%B7%20AI%20Solutions%20Developer%20%C2%B7%20Applied%20ML%20Engineer&descAlignY=58&descSize=16&descColor=c8d8e8" />
 
-### Healthcare Data Analyst · AI Solutions Developer · Applied ML Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinab/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aswinanilbindu.netlify.app)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinanilbindu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswinab97)
 
-📍 Toronto, Canada &nbsp;|&nbsp; 🎓 Applied AI @ George Brown College &nbsp;|&nbsp; ✉️ aswinanilbindu@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=Aswinab97&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinab/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aswinanilbindu.netlify.app)
-[![Tableau](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Aswinab97)
-![Profile Views](https://komarev.com/ghpvc/?username=Aswinab97&color=0A66C2&style=flat)
+📍 Toronto, Canada &nbsp;|&nbsp; 🎓 Applied AI @ George Brown College
 
 </div>
 
@@ -18,11 +18,22 @@
 
 ## 🧑‍💻 About Me
 
-Data Analyst with **2+ years of experience** turning complex healthcare and business datasets into clear, actionable insights. I build **end-to-end ML pipelines, BI dashboards, and deployed AI tools** that solve real-world problems in healthcare, public sector, and finance.
+> *Data Analyst · ML Engineer · Healthcare AI Advocate*
 
-My background blends **Mechanical Engineering, Data Science, and Applied AI** — now focused on clinical decision support, accessibility-driven AI, and healthcare analytics in Canada.
+Data Analyst with **2+ years of industry experience** designing end-to-end ML pipelines, BI dashboards, and **deployed AI tools** that solve real-world problems in **healthcare, public sector, and finance**.
 
-> 💡 *Driven by a personal mission: using data and AI to improve healthcare accessibility for people with disabilities — a mission shaped by my own lived experience.*
+My background bridges **Mechanical Engineering → Data Science → Applied AI** — now laser-focused on **clinical decision support, accessibility-driven AI, and healthcare analytics** across Canada's public and private sectors.
+
+💡 *Driven by a personal mission: using data and AI to improve healthcare accessibility for people with disabilities — shaped by my own lived experience.*
+
+<details>
+<summary>📌 What I'm targeting</summary>
+
+- 🏥 **Healthcare Analytics** — Clinical data, patient outcomes, operational KPIs
+- 🏛️ **Public Sector Data** — Government datasets, evidence-based policy support
+- 🤖 **AI Solutions Development** — Production ML, deployed tools, decision-support systems
+
+</details>
 
 ---
 
@@ -37,91 +48,114 @@ My background blends **Mechanical Engineering, Data Science, and Applied AI** �
 | **Analytics & BI** | Tableau · Power BI · EDA · Dashboard Design |
 | **Deployment & MLOps** | Docker · Azure Container Registry · Azure App Service · Streamlit |
 | **Data Management** | MySQL · SQL Server · MongoDB · ETL Pipelines |
-| **Tools** | Git · GitHub · VS Code · Jupyter · Linux · PowerShell |
+| **Tools & Ops** | Git · GitHub · VS Code · Jupyter · Linux · PowerShell |
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,docker,azure,git,github,mysql,mongodb,tableau,vscode,linux,jupyter,streamlit" />
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🧠 Brain MRI Tumor Detector — Deep Learning + Docker + Azure
-**Tech:** Python · TensorFlow · Keras · CNN · Docker · Azure Container Registry · Azure App Service
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Dockerized clinical-grade web application that classifies brain MRI scans as **"Tumor" or "No Tumor"** using a Convolutional Neural Network — fully deployed on Azure.
+### 🧠 Brain MRI Tumor Detector
+**Deep Learning · Docker · Azure**
 
-- Built and trained a CNN image classification model on labelled brain MRI datasets.
-- Containerized the full app with **Docker** and deployed via **Azure Container Registry & App Service**.
-- Designed a clean web interface for medical image upload and real-time inference output.
-- **Impact:** Production-grade AI tool demonstrating end-to-end deployment for healthcare diagnostics support.
+Dockerized clinical-grade web app that classifies brain MRI scans as **Tumor / No Tumor** using a CNN — deployed end-to-end on Azure.
 
-📁 [GitHub Repository](https://github.com/Aswinab97/brain-mri-tumor-detector)
+- CNN trained on labelled MRI datasets
+- Containerized via **Docker + Azure Container Registry**
+- Real-time inference web interface
+- **Impact:** Production-grade clinical AI tool
 
----
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswinab97/brain-mri-tumor-detector)
 
-### 🔬 Healthcare: Diabetes Prediction — ML Classification
-**Tech:** Python · scikit-learn · pandas · Jupyter Notebook · EDA · Predictive Modeling
+</td>
+<td width="50%" valign="top">
 
-End-to-end ML classification pipeline to predict diabetes risk from clinical features using the **Pima Indians Diabetes Dataset**.
+### 🔬 Diabetes Prediction — ML Pipeline
+**scikit-learn · EDA · Clinical ML**
 
-- Performed full EDA, data cleaning, and feature engineering to maximize signal.
-- Trained and compared **Logistic Regression, KNN, and Random Forest** models.
-- Optimized for **recall** to minimize missed high-risk patients — critical for clinical use.
-- Delivered a reproducible, well-documented Jupyter Notebook workflow.
-- **Impact:** Reusable ML template for early-stage disease screening, directly applicable to clinical decision-support systems.
+End-to-end classification pipeline on the **Pima Indians Diabetes Dataset** predicting patient risk.
 
-📁 [GitHub Repository](https://github.com/Aswinab97/healthcare_diabetes_ml_prediction)
+- Compared Logistic Regression, KNN, Random Forest
+- Optimized for **recall** — minimizing missed high-risk patients
+- Reproducible Jupyter Notebook workflow
+- **Impact:** Reusable template for clinical decision-support systems
 
----
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswinab97/healthcare_diabetes_ml_prediction)
 
-### 📊 Ontario ER Wait Time Analysis — EDA + Tableau Dashboard
-**Tech:** Python · pandas · Public Health Data · Tableau
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Exploratory analysis of **Ontario emergency department wait time data** to uncover bottlenecks, trends, and regional performance gaps — paired with an interactive Tableau dashboard.
+### 📊 Ontario ER Wait Time Analysis
+**Python · Public Health Data · Tableau**
 
-- Cleaned and merged multiple raw CSV datasets from Ontario's public health portal.
-- Analyzed wait times by hospital, LHIN region, and time period.
-- Built a Tableau dashboard featuring KPIs, trend lines, and regional comparison views.
-- **Impact:** Decision-support tool for public sector healthcare planners optimizing ER resource allocation.
+EDA on Ontario emergency department wait time data — uncovering bottlenecks, regional gaps, and trends for public sector planners.
 
-📁 [GitHub Repository](https://github.com/Aswinab97/toronto_er_analysis) &nbsp;|&nbsp; 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+- Merged raw CSVs from Ontario's public health portal
+- Analyzed by hospital, LHIN region, and time period
+- Interactive **Tableau dashboard** with KPIs & drill-downs
+- **Impact:** Decision-support tool for healthcare resource planning
 
----
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswinab97/toronto_er_analysis)
+[![Dashboard](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
 
-### 🕵️ Thief Detection System — Computer Vision Security
-**Tech:** Python · OpenCV · Real-Time Motion Detection · Video Processing
+</td>
+<td width="50%" valign="top">
 
-Real-time security system that detects intruders from a live webcam feed, draws bounding boxes, and auto-records video evidence.
+### 🕵️ Thief Detection System
+**OpenCV · Computer Vision · Real-Time**
 
-- Implemented background subtraction and motion detection using **OpenCV**.
-- Auto-triggers recording and saves timestamped footage when intrusion is detected.
-- **Impact:** End-to-end computer vision deployment demonstrating real-world safety AI applications.
+Real-time security system detecting intruders from live webcam feeds — draws bounding boxes and auto-records timestamped evidence.
 
-📁 [GitHub Repository](https://github.com/Aswinab97/Thief-Detection-System-AI-Computer-Vision-)
+- Background subtraction + motion detection via **OpenCV**
+- Auto-triggers recording on intrusion detection
+- **Impact:** End-to-end CV deployment for real-world safety AI
 
----
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aswinab97/Thief-Detection-System-AI-Computer-Vision-)
 
-### 🤖 AI-Enhanced Assistive Tool for Disability Support *(In Progress)*
-**Tech:** Python · Rule-Based AI · Accessibility Design · Streamlit
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Designing a prototype assistive tool that uses AI logic and guided workflows to help individuals with disabilities navigate support tasks — accessibility-first, no technical background required.
+### 🤖 AI Assistive Tool — Disability Support
+**Python · Rule-Based AI · Streamlit · Accessibility**
 
-- Building guided decision flows for recurring support activities.
-- Prioritizing simplicity, clarity, and WCAG-aligned accessibility design.
-- Foundation for future NLP-enhanced healthcare accessibility tools.
+Prototype assistive tool helping individuals with disabilities navigate support tasks via AI-guided workflows — **accessibility-first design**.
 
-📁 *Repository publishing soon — actively in development*
+- WCAG-aligned, no technical background required
+- Guided decision flows for recurring support activities
+- Foundation for NLP-enhanced healthcare accessibility tools
+- **Impact:** Practical AI for social good — directly addressing healthcare access gaps
 
----
+*🔧 Actively in development*
 
-### 🗃️ SQL Analytics Portfolio — Healthcare Queries
-**Tech:** SQL Server · CTEs · Window Functions · Analytics Engineering
+</td>
+<td width="50%" valign="top">
 
-Curated collection of advanced SQL analytics queries based on realistic healthcare-style datasets.
+### 🗃️ SQL Analytics Portfolio
+**SQL Server · CTEs · Window Functions**
 
-- Window functions for cohort analysis, patient ranking, and trend detection.
-- CTEs for multi-step metric calculations and reusable reporting logic.
-- Clean, well-commented SQL optimized for collaboration and dashboard integration.
+Curated advanced SQL analytics queries built on realistic healthcare-style datasets.
 
-📁 *Repository publishing soon — queries in final review*
+- Cohort analysis, patient ranking, trend detection with **window functions**
+- Multi-step metric calculations using **CTEs**
+- Clean, well-commented SQL ready for dashboard integration
+- **Impact:** Demonstrates production-ready analytics engineering skills
+
+*🔧 Queries in final review — publishing soon*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -130,59 +164,55 @@ Curated collection of advanced SQL analytics queries based on realistic healthca
 ### 🏦 Machine Learning Intern — Citi
 *Jan 2023 – Jan 2024 · Remote*
 
-- Developed and fine-tuned ML models using **scikit-learn & TensorFlow** for customer segmentation and marketing optimization.
-- Analyzed large-scale retail banking datasets to detect anomalies and support **fraud-detection workflows**.
-- Built data pipelines improving data-driven decision-making across banking teams.
-- **Impact:** Improved targeted marketing effectiveness by **15%** through predictive modeling.
+- Developed and fine-tuned ML models (**scikit-learn · TensorFlow**) for customer segmentation and marketing optimization
+- Analyzed large-scale retail banking datasets to detect anomalies and support **fraud-detection workflows**
+- Built data pipelines improving decision-making velocity across banking teams
+- ✅ **Improved targeted marketing effectiveness by 15%** through predictive modeling
 
 ---
 
 ### 📊 Junior Data Analyst — Luminar Technolab
 *Jul 2021 – Jul 2023 · India*
 
-- Cleaned, transformed, and analyzed datasets using **Python and SQL** for business planning and reporting.
-- Built **Tableau and Power BI dashboards** that improved operational visibility for stakeholders.
-- Applied statistical analysis to surface cost-saving opportunities.
-- **Impact:** Improved team efficiency by **10%**; reduced manual rework through data validation workflows.
+- Cleaned, transformed, and analyzed large datasets with **Python and SQL** for business planning and reporting
+- Built **Tableau and Power BI dashboards** improving operational visibility for leadership stakeholders
+- Applied statistical analysis to identify cost-saving opportunities
+- ✅ **Improved team efficiency by 10%**; reduced manual rework via data validation workflows
 
 ---
 
 ### 📈 Data Science Intern
 *Jul 2020 – Jun 2021*
 
-- Built predictive models improving targeted marketing performance by **15%**.
-- Cleaned and analyzed datasets using **Python, pandas, NumPy, and SQL**.
-- Delivered Tableau dashboards helping stakeholders interpret business trends.
-- Collaborated cross-functionally to translate business needs into scalable data solutions.
+- Built predictive models improving targeted marketing performance by **15%**
+- Cleaned and analyzed datasets using **Python, pandas, NumPy, SQL**
+- Delivered Tableau dashboards translating trends into actionable business insights
+- Collaborated cross-functionally to translate business needs into scalable data solutions
 
 ---
 
 ## 🎓 Education
 
-**Applied AI Solutions Development** *(Postgraduate Certificate)*
-George Brown College · 2025 – 2026
-> ML, predictive modeling, NLP, deep learning, and healthcare AI applications.
+<table>
+<tr>
+<td>
 
-**Bachelor of Engineering — Mechanical Engineering**
-Anna University · 2015 – 2019
-> Analytical, quantitative, and problem-solving foundations through engineering coursework.
+**🎓 Applied AI Solutions Development** *(Postgraduate Certificate)*
+**George Brown College** · Toronto · 2025 – 2026
 
----
+> Machine learning, predictive modeling, NLP, deep learning, computer vision, and healthcare AI applications.
 
-## 🧰 Tools & Technologies
+</td>
+<td>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,docker,azure,git,github,mysql,sqlite,mongodb,tableau,vscode,linux,jupyter" />
-</div>
+**⚙️ Bachelor of Engineering — Mechanical Engineering**
+**Anna University** · India · 2015 – 2019
 
----
+> Analytical, quantitative, and engineering problem-solving foundations — core transferable skills for data and systems thinking.
 
-## 🌱 Currently Building
-
-- Deploying ML models with **Streamlit & Docker** for production-readiness
-- Advanced **SQL analytics** for healthcare data engineering
-- **Healthcare data standards** (HL7, FHIR awareness)
-- Improving technical communication and interview confidence
+</td>
+</tr>
+</table>
 
 ---
 
@@ -192,13 +222,13 @@ Anna University · 2015 – 2019
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=github_dark" height="170" />
 </td>
 <td>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=dark&hide_border=true" height="170" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=github-dark-blue&hide_border=true" height="170" />
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=github_dark" height="170" />
 </td>
 </tr>
 </table>
@@ -206,17 +236,35 @@ Anna University · 2015 – 2019
 
 ---
 
+## 🌱 Currently Building
+
+| 🔧 Focus | 📌 Goal |
+|---|---|
+| ML model deployment | Streamlit & Docker production pipelines |
+| Healthcare data standards | HL7 / FHIR awareness for clinical data roles |
+| Advanced SQL analytics | Healthcare data engineering patterns |
+| Deep Learning expansion | PyTorch fundamentals for future projects |
+
+---
+
 ## 📬 Let's Connect
 
-I'm open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.
+*Open to **Healthcare Analytics, AI Solutions Development, and Public Sector Data roles** in Toronto and remote.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinab/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:aswinanilbindu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aswinanilbindu.netlify.app)
-[![Tableau](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinab/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinanilbindu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aswinanilbindu.netlify.app)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aswin.a.b/vizzes)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>"The most powerful diagnostic tool is clean data — and good chai during long coding sessions. ☕"</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer&fontSize=16&fontColor=ffffff" />
+
+*"The most powerful diagnostic tool is clean data — and good chai during long coding sessions. ☕"*
+
 </div>
