@@ -174,6 +174,8 @@ Prototype assistive tool using AI-guided workflows to help individuals with disa
 - Structured as a foundation for future NLP-enhanced healthcare accessibility tooling
 - **Impact:** Practical AI for social good — closing the gap between AI capability and real-world accessibility needs
 
+> 🚧 Repository publishing shortly — actively in development.
+
 ---
 
 ### 🗃️ SQL Analytics Portfolio — Healthcare Query Patterns *(Active Development)*
@@ -186,16 +188,18 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - Well-commented, peer-reviewable SQL — designed for healthcare reporting and BI integration
 - **Impact:** Demonstrates analytics engineering depth beyond basic SELECT queries
 
+> 🚧 Repository publishing shortly — actively in development.
+
 ---
 
 ## Professional Experience
 
 ### 🏦 Machine Learning Intern — Citi
-*Jan 2023 – Jan 2024 · Remote*
+*Jan 2023 – Jan 2024 · Remote (concurrent with Luminar Technolab role)*
 
 - Built and fine-tuned **classification models in scikit-learn and TensorFlow** for retail banking customer segmentation — processing batch datasets of 500K+ customer records
 - Developed an **anomaly detection pipeline using Isolation Forest** to flag high-risk transactions and feed fraud review queues
-- Automated feature engineering workflows in **pandas**, reducing manual data prep time across the team
+- Automated **8+ feature engineering workflows in pandas**, cutting model training prep time by ~40% and eliminating manual data prep bottlenecks for the team
 - ✅ **+15% improvement in targeted marketing conversion** through predictive segment modelling
 
 ### 📊 Junior Data Analyst — Luminar Technolab
@@ -206,8 +210,8 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - Applied **chi-square and correlation analysis** to identify cost-saving opportunities across logistics and procurement data
 - ✅ **+10% improvement in team efficiency** · reduced manual reporting rework by standardising data validation checks
 
-### 📈 Data Science Intern — Freelance / Contract
-*Jul 2020 – Jun 2021*
+### 📈 Data Science Intern — Luminar Technolab
+*Jul 2020 – Jun 2021 · India*
 
 - Built a **logistic regression and decision tree ensemble** for customer churn prediction — improving campaign targeting accuracy by **15%**
 - Cleaned and feature-engineered datasets of 100K+ rows using **pandas, NumPy, and SQL**
@@ -227,6 +231,16 @@ Machine learning · predictive modelling · NLP · deep learning · computer vis
 Anna University · India · 2015 – 2019
 
 Analytical and quantitative problem-solving foundations — systems thinking, engineering rigour, technical documentation
+
+---
+
+## 🏅 Certifications & Credentials
+
+| Certification | Issuer | Year |
+|---|---|---|
+| *(Add your certifications here — e.g. AZ-900, Google Data Analytics, etc.)* | | |
+
+> ✏️ *Update this table with your verified certifications.*
 
 ---
 
