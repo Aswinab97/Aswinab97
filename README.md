@@ -207,8 +207,8 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - Applied **chi-square and correlation analysis** to identify cost-saving opportunities across logistics and procurement data
 - ✅ **+10% improvement in team efficiency** · reduced manual reporting rework by standardising data validation checks
 
-### 📈 Data Science Intern — Freelance / Contract
-*Jul 2020 – Jun 2021*
+### 📈 Data Science Intern — Luminar Technolab
+*Jul 2020 – Jun 2021 · India*
 
 - Built a **logistic regression and decision tree ensemble** for customer churn prediction — improving campaign targeting accuracy by **15%**
 - Cleaned and feature-engineered datasets of 100K+ rows using **pandas, NumPy, and SQL**
