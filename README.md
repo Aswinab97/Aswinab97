@@ -237,15 +237,28 @@ Analytical and quantitative problem-solving foundations — systems thinking, en
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=github_dark" height="165" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=github-dark-blue&hide_border=true" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=github_dark" height="165" />
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aswinab97&theme=dark" height="170" />
+</td>
+
+<td>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aswinab97&theme=dark&hide_border=true" height="170" />
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aswinab97&theme=dark" height="170" />
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
