@@ -2,7 +2,7 @@
 
 # Aswin Anil Bindu
 
-### Healthcare Data Analyst · AI Solutions Developer · Applied ML Engineer
+### Healthcare Data Analyst · AI Solutions Developer · ML Deployment Specialist
 
 **Building production-ready AI tools that make healthcare smarter and more accessible.**
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-Healthcare Data Analyst and AI Solutions Developer with **2+ years of industry experience** building ML pipelines, BI dashboards, and production-deployed AI tools across healthcare, finance, and the public sector.
+I build production-ready AI systems — not just notebooks. With **2+ years of industry experience** across healthcare, finance, and the public sector, I specialise in ML pipelines, BI dashboards, and cloud-deployed AI tools.
 
 My background bridges **Mechanical Engineering → Data Science → Applied AI** — combining analytical rigour, domain knowledge, and hands-on cloud deployment skills. Focused on **clinical decision support, healthcare analytics, and accessibility-driven AI** in Canada.
 
@@ -118,7 +118,7 @@ Production-deployed clinical web application classifying brain MRI scans as **Tu
 - Tuned for **high recall on tumor class**: Sensitivity **95.7%** · F1 **83.0%** · AUC ensemble ~92–95%
 - **Impact:** End-to-end MLOps lifecycle — training to cloud deployment — directly applicable to clinical diagnostic support tooling
 
-🌐 [Live App](https://brain-mri-analyzer-frf7ezcrc4bbafcp.eastus-01.azurewebsites.net) &nbsp;·&nbsp; 📁 [GitHub Repository](https://github.com/Aswinab97/brain-mri-tumor-detector)
+🌐 [Live App](https://brain-mri-analyzer-frf7ezcrc4bbafcp.eastus-01.azurewebsites.net) *(may take ~30s to cold-start)* &nbsp;·&nbsp; 📁 [GitHub Repository](https://github.com/Aswinab97/brain-mri-tumor-detector)
 
 ---
 
@@ -174,6 +174,8 @@ Prototype assistive tool using AI-guided workflows to help individuals with disa
 - Structured as a foundation for future NLP-enhanced healthcare accessibility tooling
 - **Impact:** Practical AI for social good — closing the gap between AI capability and real-world accessibility needs
 
+📁 Repository coming soon — currently in active development
+
 ---
 
 ### 🗃️ SQL Analytics Portfolio — Healthcare Query Patterns *(Active Development)*
@@ -185,6 +187,8 @@ Curated advanced SQL analytics built on realistic healthcare-style datasets, dem
 - CTEs for multi-step metric calculations, reusable reporting views, and dashboard-ready aggregations
 - Well-commented, peer-reviewable SQL — designed for healthcare reporting and BI integration
 - **Impact:** Demonstrates analytics engineering depth beyond basic SELECT queries
+
+📁 Repository coming soon — currently in active development
 
 ---
 
